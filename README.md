@@ -29,14 +29,6 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bot
 
 h.py
 
-you must login with your 10+ accounts to do 500+ auto comments...
-
-in 11 & 12 line in code change if you needed other comments inside ...
-
-in 19th line change with your required movie video url...
-
-thats all done the url will open in that opened localhost chrome and automatically done the 500+ auto comments....
-
 in cmd enter
 
 pip install Random
