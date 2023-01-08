@@ -27,7 +27,16 @@ cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
-h.py
+for auto report the video 
+
+enter report.py and run
+
+for auto creating brand account(only creates 5 auto brand account)
+enter brand.py and run
+
+for auto feedback 
+
+enter fd.py and run 
 
 in cmd enter
 
