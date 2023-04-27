@@ -11,32 +11,19 @@ https://youtu.be/c9MAJpax5R0
 
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
-in my case chrome location
-
-cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
-
-chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here")
-
-in my case
-
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
-
-then open cmd in that folder paste below 3 lines at a time and hit enter button(in below codes are after watching above video my chrome path location & localohost path)
+In my case, the Chrome location is:
 
 cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
-for auto report the video 
+To run these commands, open the command prompt in that folder and paste the below three lines one at a time and hit the enter button. The above codes are based on watching the video and my Chrome path location & localhost path.
 
-enter report.py and run
+For auto reporting the video, enter report.py and run.
 
-for auto creating brand account(only creates 5 auto brand account)
-enter brand.py and run
+For auto-creating brand accounts (only creates five auto brand accounts), enter brand.py and run.
 
-for auto feedback 
-
-enter fd.py and run 
+For auto feedback, enter fd.py and run
 
 in cmd enter
 
