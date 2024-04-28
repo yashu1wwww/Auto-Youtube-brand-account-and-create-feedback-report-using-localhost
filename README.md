@@ -23,6 +23,8 @@ For auto reporting the video, enter report.py and run.
 
 For auto-creating brand accounts (only creates five auto brand accounts), enter brand.py and run.
 
+# 👉 Note:Every time YouTube updates the code, it varies. So, open the YouTube video, press 'Ctrl+Shift+C' to open the developer tools,
+
 For auto feedback, enter fd.py and run
 
 in cmd enter
